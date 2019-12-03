@@ -24,9 +24,17 @@ body.fh5co-offcanvas {
   overflow: hidden;
 }
 
-.masonry-brick:hover .image {
-  opacity: 0.3;
+/* .bs-linebreak {
+  height:80px;
+} */
+
+.rotate{
+  transform: rotate(90deg);
 }
+
+/* .masonry-brick:hover .image {
+  opacity: 0.3;
+} */
 
 a {
   color: #2da9d7;
